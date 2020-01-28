@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/julia2369/Documents/JAVA_HOME/.metadata/.plugins/org.eclipse.jdt.core
+1537184482.index
+646308851.index
